@@ -30,7 +30,7 @@ python --version
 1. Clone the repository or download the script.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MKaish/virtual-coin-toss.git
 cd virtual-coin-toss
 ```
 
